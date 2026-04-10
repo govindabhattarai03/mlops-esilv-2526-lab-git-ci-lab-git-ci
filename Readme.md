@@ -255,3 +255,5 @@ Create a `feature/test-build` branch from the develop branch and note that the b
 You can now create several features branches and see that the build, test and package stages are applied to these branches.
 
 All this configuration means that you can have a validation system that is as close as possible without wasting time on the rapid feedback you need to improve product quality.
+
+##
